@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="second_fragment_title">Second fragment</string>
+    <string name="third_fragment_title">Third fragment</string>
+    <string name="fourth_fragment_title">Fourth fragment</string>
+</resources>

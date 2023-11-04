@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuFirst"
+        android:icon="@drawable/ic_item1"
+        android:title="menuFirst"
+        android:orderInCategory="1"/>
+    <item android:id="@+id/menuSecond"
+        android:icon="@drawable/ic_item2"
+        android:title="menuSecond"
+        android:orderInCategory="2"/>
+    <item android:id="@+id/menuThurd"
+        android:icon="@drawable/ic_item3"
+        android:title="menuThurd"
+        android:orderInCategory="3"/>
+    <item android:id="@+id/menuFourth"
+        android:icon="@drawable/ic_item4"
+        android:title="menuFourth"
+        android:orderInCategory="4"/>
+</menu>
